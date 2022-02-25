@@ -1,4 +1,16 @@
-## Release v1.0.0
+## Release v1.0.0-rc.4
+
+### 💡 Features
+  - N/A
+
+### 🛠 Improvements
+  - Improve whitelist validation
+
+### 🐞 Bug Fixes
+  - N/A
+
+
+## Release v1.0.0-rc.1
 
 ### 💡 Features
   - **$bridge**
