@@ -1,3 +1,15 @@
+## Release v1.0.1
+
+### 💡 Features
+  - N/A
+
+### 🛠 Improvements
+  - N/A
+
+### 🐞 Bug Fixes
+  - Fix issue throw error when undefined whiteList 
+
+
 ## Release v1.0.0-rc.4
 
 ### 💡 Features
