@@ -1,3 +1,16 @@
+## Release v1.0.4
+
+### 💡 Features
+  - N/A
+
+### 🛠 Improvements
+  - N/A
+
+### 🐞 Bug Fixes
+  - Minor bug fixes
+
+
+
 ## Release v1.0.3
 
 ### 💡 Features
