@@ -1,3 +1,16 @@
+## Release v1.0.3
+
+### 💡 Features
+  - N/A
+
+### 🛠 Improvements
+  - Expose $bridge so we can import it in main.js
+
+### 🐞 Bug Fixes
+  - N/A
+
+
+
 ## Release v1.0.1
 
 ### 💡 Features
